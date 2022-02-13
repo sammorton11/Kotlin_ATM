@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sam!
 - 🌱 I’m currently learning Android Studio with Kotlin :)
-- 💞️ I’m looking to collaborate on almost any project that is beginner friendly.
 - 📫 How to reach me sammorton11@yahoo.com
 
 <!---

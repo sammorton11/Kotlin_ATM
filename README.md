@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam!
-- 🌱 I’m currently learning Python and Android Studio with Kotlin :)
+- 🌱 I like to build things.
 - 📫 How to reach me sammorton11@yahoo.com
 
 <!---

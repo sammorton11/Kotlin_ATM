@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Sam!
-- 🌱 I like to build things.
-- 📫 How to reach me sammorton11@yahoo.com
+Simple banking application in Kotlin!
 
 <!---
 sammorton11/sammorton11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
